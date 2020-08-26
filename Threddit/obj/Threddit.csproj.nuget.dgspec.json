@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Daniel Fuqua\\source\\repos\\Threddit\\Threddit\\Threddit.csproj": {}
+    "C:\\Users\\Daniel Fuqua\\workspace\\Threddit\\Threddit\\Threddit.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Daniel Fuqua\\source\\repos\\Threddit\\Threddit\\Threddit.csproj": {
+    "C:\\Users\\Daniel Fuqua\\workspace\\Threddit\\Threddit\\Threddit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Daniel Fuqua\\source\\repos\\Threddit\\Threddit\\Threddit.csproj",
+        "projectUniqueName": "C:\\Users\\Daniel Fuqua\\workspace\\Threddit\\Threddit\\Threddit.csproj",
         "projectName": "Threddit",
-        "projectPath": "C:\\Users\\Daniel Fuqua\\source\\repos\\Threddit\\Threddit\\Threddit.csproj",
+        "projectPath": "C:\\Users\\Daniel Fuqua\\workspace\\Threddit\\Threddit\\Threddit.csproj",
         "packagesPath": "C:\\Users\\Daniel Fuqua\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Daniel Fuqua\\source\\repos\\Threddit\\Threddit\\obj\\",
+        "outputPath": "C:\\Users\\Daniel Fuqua\\workspace\\Threddit\\Threddit\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Daniel Fuqua\\AppData\\Roaming\\NuGet\\NuGet.Config",

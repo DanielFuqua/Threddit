@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/Gsxnp0Oq8zLm+NmsKT7c0o36usMl9puA+8mMaAJl+yJZ6XsRwTIHjC6du1VMlZTCCzaXHVdNUNtbxKk+TQ8MA==",
+  "dgSpecHash": "fC4WkF4WxO8+QelS7jusrtAO5hZMqQZjvtdyGzO4JIQvg1j3ZgclRnGNWeuZL2W1aOr015NYP8hFFcnkdbaS3g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Daniel Fuqua\\source\\repos\\Threddit\\Threddit\\Threddit.csproj",
+  "projectFilePath": "C:\\Users\\Daniel Fuqua\\workspace\\Threddit\\Threddit\\Threddit.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Daniel Fuqua\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.5\\microsoft.aspnetcore.authentication.jwtbearer.3.1.5.nupkg.sha512",
     "C:\\Users\\Daniel Fuqua\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.5\\microsoft.aspnetcore.jsonpatch.3.1.5.nupkg.sha512",
