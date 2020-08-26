@@ -5515,19 +5515,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Daniel Fuqua\\.nuget\\packages\\": {}
+    "C:\\Users\\Holden\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Daniel Fuqua\\workspace\\Threddit\\Threddit\\Threddit.csproj",
+      "projectUniqueName": "C:\\Users\\Holden\\workspace\\Threddit\\Threddit\\Threddit.csproj",
       "projectName": "Threddit",
-      "projectPath": "C:\\Users\\Daniel Fuqua\\workspace\\Threddit\\Threddit\\Threddit.csproj",
-      "packagesPath": "C:\\Users\\Daniel Fuqua\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Daniel Fuqua\\workspace\\Threddit\\Threddit\\obj\\",
+      "projectPath": "C:\\Users\\Holden\\workspace\\Threddit\\Threddit\\Threddit.csproj",
+      "packagesPath": "C:\\Users\\Holden\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Holden\\workspace\\Threddit\\Threddit\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Daniel Fuqua\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Holden\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5590,7 +5590,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

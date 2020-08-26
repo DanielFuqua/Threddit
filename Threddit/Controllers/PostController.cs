@@ -41,17 +41,17 @@ namespace Threddit.Controllers
         }
 
 
-        [Authorize]
-        [HttpGet("{id}")]
-        public IActionResult Get(int id)
-        {
-            var post = _postRepository.GetById(id);
-            if (post == null)
-            {
-                return NotFound();
-            }
-            return Ok(post);
-        }
+        //[Authorize]
+        //[HttpGet("{id}")]
+        //public IActionResult Get(int id)
+        //{
+        //    var post = _postRepository.GetById(id);
+        //    if (post == null)
+        //    {
+        //        return NotFound();
+        //    }
+        //    return Ok(post);
+        //}
 
 
 

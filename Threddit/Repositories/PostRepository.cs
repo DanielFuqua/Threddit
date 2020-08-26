@@ -23,10 +23,10 @@ namespace Threddit.Repositories
         
         public List<Post> GetAllByUser(List<ThreadUser> threadUsers)
         {
-            var All = _context.Post
-                .Where(p => threadUsers.Any(tu => tu.ThreadId == p.ThreadId))
+            var All = _context.Post.ToList();
+            var filteredPosts = All.Where(p => threadUsers.Any(tu => p.ThreadId == tu.ThreadId))
                 .ToList();
-            return All;
+            return filteredPosts;
         }
 
         public Post GetById(int id)

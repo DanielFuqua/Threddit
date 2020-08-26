@@ -10,7 +10,7 @@ namespace Threddit.Models
         public int Id { get; set; }
         public int ThreadId { get; set; }
         public int UserProfileId { get; set; }
-        public string Content { get; set; }
-        public DateTime CreateDateTime { get; set; }
+        public bool Moderator { get; set; }
+        public bool Creator { get; set; }
     }
 }
