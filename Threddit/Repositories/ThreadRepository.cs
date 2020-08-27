@@ -15,11 +15,16 @@ namespace Threddit.Repositories
         {
             _context = context;
         }
-        public List<Thread> Get(int id)
+        public List<Thread> GetAll()
         {
-            var All = _context.Thread.Where(t => t.Id == id).ToList();
+            var All = _context.Thread.ToList();
             return All;
         }
+
+        //public List<Thread> GetAllFollowedThreads(int id)
+        //{
+
+        //}
 
     }
 }
